@@ -18,7 +18,6 @@ public class Challenge {
 		descobreMaior(vetor);
 		
 		vetor = alteraVetor(vetor);
-		vetor = alteraVetor(vetor);
 		
 		descobreMaior(vetor);
 	}
